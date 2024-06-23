@@ -1,0 +1,1 @@
+streamlit run index.py --server.port 1010
