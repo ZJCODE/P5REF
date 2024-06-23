@@ -14,12 +14,12 @@ styles = {
     "nav": {
         "background-color": "white",
         "justify-content": "left",
-        "font-size": "20px",
         "padding": "5px",
     },
     "span": {
         "padding": "75px",
         "color": "#FF671D",
+        "font-size": "25px",
     },
 }
 
