@@ -17,7 +17,7 @@ def footer():
         }
         .footer a {
             text-decoration: none; /* Remove underline from links */
-            color: #FF671D",; /* Set link color */
+            color: #FF671D; /* Set link color */
         }
         </style>
         <div class="footer">
