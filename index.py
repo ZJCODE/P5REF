@@ -18,7 +18,7 @@ styles = {
     },
     "span": {
         "padding": "75px",
-        "color": "#FF671D",
+        "color": "#f58025",
         "font-size": "25px",
     },
 }
