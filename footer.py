@@ -17,11 +17,11 @@ def footer():
         }
         .footer a {
             text-decoration: none; /* Remove underline from links */
-            color: #888888; /* Set link color */
+            color: #FF671D",; /* Set link color */
         }
         </style>
         <div class="footer">
-            &copy; 2024 Made by <a href="https://www.zjun.life/">ZJun</a>
+            &copy; Play at <a href="https://artplay.streamlit.app/">ArtPlay</a>
         </div>
         """,
         unsafe_allow_html=True
