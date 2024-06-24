@@ -21,7 +21,7 @@ def footer():
         }
         </style>
         <div class="footer">
-            &copy; Play at <a href="https://artplay.streamlit.app/">ArtPlay</a>
+            可以在 <a href="https://artplay.streamlit.app/">ArtPlay</a> 学习练习
         </div>
         """,
         unsafe_allow_html=True
